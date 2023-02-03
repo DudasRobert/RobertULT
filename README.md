@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RobertULT
+- 👋 Hi, I’m Robert Dudas
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning c++ programming language.
 - 💞️ I’m looking to collaborate on video games programming.
